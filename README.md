@@ -14,4 +14,4 @@ Barış Susan => https://github.com/baris95
 
 Mahmut Yamaç Kayseri => https://github.com/yamackayseri
 
-Yiğit Can Demirbaş
+Yiğit Can Demircan => https://github.com/MrWolf35
