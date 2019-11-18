@@ -10,7 +10,7 @@ Efe Berk Dinç => https://github.com/Shelot
 
 Berkay Işık Ömerbaş => https://github.com/berkayomerbas
 
-Barış Susan 
+Barış Susan => https://github.com/baris95
 
 Mahmut Yamaç Kayseri => https://github.com/yamackayseri
 
