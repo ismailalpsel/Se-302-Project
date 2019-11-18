@@ -12,6 +12,6 @@ Berkay Işık Ömerbaş => https://github.com/berkayomerbas
 
 Barış Susan 
 
-Mahmut Yamaç Kayseri
+Mahmut Yamaç Kayseri => https://github.com/yamackayseri
 
 Yiğit Can Demirbaş
