@@ -1,6 +1,6 @@
 Se-302-Project
 
-Project Name: BiBArt
+Project Name: Treassure
 
 Group Members:
 
