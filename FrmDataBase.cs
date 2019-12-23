@@ -100,7 +100,7 @@ namespace TReasure_i
 
         }    
 
-        private void GrdDataBase_MouseDoubleClick(object sender, MouseEventArgs e)
+         private void GrdDataBase_MouseDoubleClick(object sender, MouseEventArgs e)
 
         {
 
@@ -189,6 +189,7 @@ namespace TReasure_i
     
 
         }
+
 
 
 
