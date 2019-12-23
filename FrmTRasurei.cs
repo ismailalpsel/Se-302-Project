@@ -95,5 +95,10 @@ namespace TReasure_i
                 (frm.MdiChild as FrmDataBase).LoadData();
             }
         }
+        
+        private void barButtonItem17_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/ismailalpsel/Se-302-Project/wiki");
+        }
     }
 }
